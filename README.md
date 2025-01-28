@@ -3,7 +3,7 @@ so_long is a project where you'll craft your own 2D game using the mlx library f
 
 The goal of this game is to generate a personalized map from a selected file, gather all collectibles to unlock the exit door, and navigate around enemies to succeed.
 
-![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1199848376863309844/Screen_Shot_2024-01-24_at_11.47.42_PM.png)
+![](https://i.imgur.com/pyZ5QHX.png)
 
 1 = Border | 0 = Empty walkable area | C = Coins (collectables) | X = Enemy | E = Exit door | P = Player
 
@@ -12,4 +12,4 @@ Please note that this project is specifically designed for macOS, owing to the u
 
 # my so_long Gameplay
 
-![](https://cdn.discordapp.xyz/attachments/1067452256686981161/1199849348482224168/ScreenRecording2024-01-24at11.42.22PM-ezgif.com-video-to-gif-converter.gif)
+![](https://i.imgur.com/49kVyF9.gif)
